@@ -12,10 +12,10 @@ JASIRI is a project in the Algorand Ecosystem
 - Verified $JASIRI-pesa Asset as core asset
 - Easy ability to access dapps on the JASIRI Ecosystem[Algorand-compatible dapps] on the fly
 
-### Pending Features(Arranged in order of priority
+### Pending Features(Arranged in order of priority)
 1. How do we enable sending ALGOs and JASIRI-pesa Assets offline?
-   - We need to integrate Hover's USSD[See: https://www.usehover.com/] and then get
-     USSD codes to test and integrate using Africa's Talking[See: https://africastalking.com/]
+   - We need to integrate Hover's USSD[See: https://www.usehover.com/] into the Android Version and then get
+     USSD codes to test and integrate using Africa's Talking APIs[See: https://africastalking.com/]
 
 2. We need to customize the Wallet to include JASIRI's Logo, theming and Graphic Designs
 
