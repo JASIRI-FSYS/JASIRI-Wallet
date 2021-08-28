@@ -10,7 +10,7 @@ JASIRI is a project in the Algorand Ecosystem
 
 - Offline toggle mode - enables offline sending of ALGOs, and $JASIRI-pesa Assets using Hover's USSD and Africa's Talking APIs with customized Middleware[Note: Should also include any Layer-1 Assets]
 - Verified $JASIRI-pesa Asset as core asset
-- Easy ability to access dapps on the JASIRI Ecosystem[Algorand-compatible dapps] on the fly
+- Easy ability to access dapps on the JASIRI Ecosystem[Algorand-compatible dapps built using Reach or bare TEAL/PyTeal] on the fly
 
 ### Pending Features(Arranged in order of priority)
 1. How do we enable sending ALGOs and JASIRI-pesa Assets offline?
