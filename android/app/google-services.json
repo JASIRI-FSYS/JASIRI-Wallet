@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "569101139733",
+      "project_id": "jasiri-wallet",
+      "storage_bucket": "jasiri-wallet.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:569101139733:android:6a274ec1290abdc842b31c",
+          "android_client_info": {
+            "package_name": "com.jasiri.jasiriwallet"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "569101139733-umvbbraqv769ahcak3aporben28uhpd9.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDaGk2FZLz54Nhe8LRU8_Rsrs55kA3l6go"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "569101139733-umvbbraqv769ahcak3aporben28uhpd9.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
