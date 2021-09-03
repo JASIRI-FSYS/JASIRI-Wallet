@@ -11,7 +11,9 @@
  */
 
 package com.algorand.android
-
+import com.microsoft.appcenter.AppCenter;
+import com.microsoft.appcenter.analytics.Analytics;
+import com.microsoft.appcenter.crashes.Crashes;
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
@@ -176,6 +178,9 @@ class MainActivity : CoreMainActivity(),
         if (savedInstanceState == null) {
             handleDeeplinkAndNotificationNavigation()
         }
+	// Starting the AppCenter SDK
+	AppCenter.start(getApplication(), "7e3f82e7-622a-41e9-b9e9-323e8c10b9e4",
+			  Analytics.class, Crashes.class);
     }
 
     override fun onResume() {
